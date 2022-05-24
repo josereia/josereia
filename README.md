@@ -20,3 +20,5 @@
   <a href="https://www.instagram.com/jo_sereiaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/jo_sereia" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
+
+![Snake animation](https://github.com/josereia/josereia/blob/output/github-contribution-grid-snake.svg)
