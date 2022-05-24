@@ -2,7 +2,6 @@
 
 - 🔭 Trabalhando com front-end
 - 🌱 Aprendendo Flutter
-- 📫 Entre em contato: joao.lo.sereia@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato: Eterno amante da Tecnologia! 
 
