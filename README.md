@@ -1,6 +1,6 @@
 ### Olá! Sou o João Sereia 👋
 
-- 🔭 Trabalhando com front-end
+- 🔭 Desenvolvimento front-end
 - 🌱 Aprendendo Flutter
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato: Eterno amante da Tecnologia! 
