@@ -1,6 +1,6 @@
 ### Olá! Sou o João Sereia 👋
 
-- 🔭 Desenvolvimento front-end
+- 🔭 Desenvolvimento fullstack
 - 🌱 Aprendendo Flutter
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato: Eterno amante da Tecnologia! 
