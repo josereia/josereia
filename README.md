@@ -1,7 +1,7 @@
 ### Olá! Sou o João Sereia 👋
 
 - 🔭 Desenvolvedor: Fullstack
-- 🌱 Aprendendo: Java/Spring Boot
+- 🌱 Aprendendo: Golang
 - ⭐ Favorito: Dart/Flutter
 - ⚡ Fato: Eterno amante da Tecnologia! 
 
