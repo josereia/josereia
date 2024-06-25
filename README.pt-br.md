@@ -1,11 +1,9 @@
-# Hello! I'm João Sereia 👋
+# Olá! Eu sou o João Sereia 👋
 
-- 🔭 Developer: Fullstack
-- 🌱 Learning: GOLang
-- ⭐ Favorite: Flutter/Dart
-- ⚡ Fact: Eternal technology lover!
-
----
+- 🔭 Desenvolvedor: Fullstack
+- 🌱 Aprendendo: GOLANG
+- ⭐ Favorito: Flutter/Dart
+- ⚡ Fato: Eterno amante da Tecnologia!
 
 <p>
   <img
@@ -29,7 +27,7 @@
   >
 </p>
 
-## Technologies
+## Tecnologias
 
 <p>
   <img
@@ -102,7 +100,7 @@
   >
 </p>
 
-## Contacts
+## Contatos
 
 <div>
   <a href="mailto:joao.lo.sereia@gmail.com" target="_blank">
