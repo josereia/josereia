@@ -8,7 +8,7 @@
 # I'm João Sereia
 
 - 🔭 Developer: Fullstack
-- 🌱 Learning: GOLang
+- 🌱 Learning: Godot Engine and GDScript
 - ⭐ Favorite: Flutter/Dart
 - ⚡ Fact: Eternal technology lover!
 
@@ -134,6 +134,10 @@
   <img
     alt="swagger"
     src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
+  />
+  <img
+    alt="godot"
+    src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"
   />
 </p>
 
