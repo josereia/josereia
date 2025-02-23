@@ -8,7 +8,7 @@
 # I'm João Sereia
 
 - 🔭 Developer: Fullstack
-- 🌱 Learning: Godot Engine and GDScript
+- 🌱 Learning: [App Architeture(Flutter)](https://docs.flutter.dev/app-architecture)
 - ⭐ Favorite: Flutter/Dart
 - ⚡ Fact: Eternal technology lover!
 
