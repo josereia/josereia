@@ -8,35 +8,62 @@
 # I'm João Sereia
 
 - 🔭 Developer: Fullstack
-- 🌱 Learning: [App Architeture(Flutter)](https://docs.flutter.dev/app-architecture)
 - ⭐ Favorite: Flutter/Dart
 - ⚡ Fact: Eternal technology lover!
-
-<p>
-  <img
-    alt="freelancer"
-    src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"
-  />
-  <img
-    alt="upwork"
-    src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
-  />
-</p>
+- 🌱 Learning: [App Architeture(Flutter)](https://docs.flutter.dev/app-architecture)
 
 <p>
   <img
     alt="commits"
-    src="https://github-readme-stats.vercel.app/api?username=josereia&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=7d68af&title_color=7d68af&icon_color=7d68af&text_color=ffffff&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=josereia&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=7d68af&title_color=7d68af&text_color=ffffff&icon_color=7d68af&locale=en"
   />
   <img
-    alt="top langs"
+    alt="langs"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=josereia&layout=compact&theme=transparent&border_color=7d68af&title_color=7d68af&icon_color=7d68af&text_color=ffffff&locale=en"
   />
 </p>
 
-## Technologies
+## 💼 Projects
 
-### Main stack
+<p align="left">
+  <a href="https://github.com/softyesti">
+    <img src="https://github.com/softyesti.png" width="60" />
+  </a>
+  <a href="https://github.com/TabNewsNC">
+    <img src="https://github.com/TabNewsNC.png" width="60" />
+  </a>
+  <a href="https://github.com/symphony-mp">
+    <img src="https://github.com/symphony-mp.png" width="60" />
+  </a>
+  <a href="https://github.com/AuraSync">
+    <img src="https://github.com/AuraSync.png" width="60" />
+  </a>
+  <a href="https://github.com/yara-os">
+    <img src="https://github.com/yara-os.png" width="60" />
+  </a>
+  <a href="https://github.com/GlanceGo">
+    <img src="https://github.com/GlanceGo.png" width="60" />
+  </a>
+  <a href="https://github.com/PlayMu">
+    <img src="https://github.com/PlayMu.png" width="60" />
+  </a>
+  <a href="https://github.com/OrosIDE">
+    <img src="https://github.com/OrosIDE.png" width="60" />
+  </a>
+  <a href="https://github.com/spectra-mp">
+    <img src="https://github.com/spectra-mp.png" width="60" />
+  </a>
+  <a href="https://github.com/FirmaERP">
+    <img src="https://github.com/FirmaERP.png" width="60" />
+  </a>
+  <a href="https://github.com/QuadroFlow">
+    <img src="https://github.com/QuadroFlow.png" width="60" />
+  </a>
+</p>
+
+## 🤖 Technologies
+
+### 🌟 Main stack
 
 <p>
   <img
@@ -52,10 +79,6 @@
     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
   />
   <img
-    alt="react native"
-    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-  />
-  <img
     alt="html5"
     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
   />
@@ -69,11 +92,11 @@
   />
 </p>
 
-### Secondary stack
+### ⭐ Secondary stack
 
 <p>
   <img
-    alt="go/golang"
+    alt="golang"
     src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
   />
   <img
@@ -82,7 +105,7 @@
   />
 </p>
 
-### Databases
+### 💾 Databases
 
 <p>
   <img
@@ -99,7 +122,7 @@
   />
 </p>
 
-### Workstation tools
+### 🖥️ Workstation
 
 <p>
   <img
@@ -116,7 +139,7 @@
   />
 </p>
 
-### Others
+### 🛠️ Others
   
 <p>
   <img
@@ -141,7 +164,7 @@
   />
 </p>
 
-## Contacts
+## 📘 Contacts
 
 <div>
   <a href="mailto:joao.lo.sereia@gmail.com" target="_blank">
